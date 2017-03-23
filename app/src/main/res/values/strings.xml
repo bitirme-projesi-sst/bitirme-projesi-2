@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yardım Gözüm</string>
+    <string name="buttonText">Click</string>
+    <string name="title_activity_info">Map</string>
+    <string name="speech_prompt">Bir Şeyler Söyleyin&#8230;</string>
+    <string name="speech_not_supported">Çok üzgünüm, sürüm yetmiyor..</string>
+    <string name="tap_on_mic">Mikrofona basınız</string>
+</resources>
